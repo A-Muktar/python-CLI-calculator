@@ -12,17 +12,14 @@ if operators== "+":
     # for subtraction
 elif operators == "-":
         print("The answer is: ", num1-num2)
-           # asking the user to close the program
         input("\tPress enter to quit the program...")
         #for multiplication
 elif operators =="*":
         print("The answer is: ", num1*num2)
-           # asking the user to close the program
         input("\tPress enter to quit the program...")
         #for division
 elif operators == "/":
         print("The answer is: ", num1//num2)
-         # asking the user to close the program
         input("\tPress enter to quit the program...")
         #fallback, incase the user want to use other arithmetic signs that is not included
 else:
