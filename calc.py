@@ -1,6 +1,3 @@
-from ast import operator
-
-
 print("\n\t", '\\'*55, "\n\t\tWelcome to new Python Command line Calculater\n\n\t\t","**"*4, "Design by TechLead Co. LTD", "**"*4,"\n\t",'\\'*55, "\n" )
 
 num1 = int(input("Enter first number: ")) #to accept first value
